@@ -4,7 +4,7 @@
 
 ## Category Name 1 
 ### ...
-<a href="#"><img src="https://img.shields.io/badge/Github-View%20on%20Github-purple?logo=github"/></a>
+<a href="https://github.com/NVTines"><img src="https://img.shields.io/badge/Github-View%20on%20Github-purple?logo=github"/></a>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
